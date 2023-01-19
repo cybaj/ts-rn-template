@@ -1,0 +1,8 @@
+{
+  "name": "ts-rn-template",
+  "version": "0.0.1",
+  "main": "script.js",
+  "repository": "https://github.com/cybaj/ts-rn-template",
+  "author": "cybaj",
+  "license": "MIT"
+}
